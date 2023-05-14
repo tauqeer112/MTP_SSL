@@ -49,3 +49,6 @@ Our analysis suggests that self-supervised learning is effective in preventing o
 - There are two folders `Pretraining` and `Finetuning`. The `Pretraining` folder contains SSL code for different datasets which can be run easily. for example `python SSL_covid19.py`
 - There are five folders for different datasets for finetuning inside `Finetuning` folder. You can run the python script for random weight initializaion , imageNet as well as SSL after loading the SSL pretrained model.
 
+### How to visualize the results.
+
+- You can use the tensorboard logs stored in lightning logs to visualize the results.
