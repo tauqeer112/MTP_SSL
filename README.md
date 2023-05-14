@@ -11,6 +11,8 @@ to perform downstream tasks such as classification segmentation, or detection. A
 from overfitting on the training data. It helps training with prior weight initialization, but it still is not outperforming ImageNet in terms of accuracy.
 
 ## Datasets and Models
+
+### Datasets
 - [HAM10000](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW8)
 - [Skin Cancer ISIC](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic)
 - [Covid19](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
